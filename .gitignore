@@ -1,0 +1,4 @@
+node_modules/
+output/
+auth.json
+*.storage-state.json
